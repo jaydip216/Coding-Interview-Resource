@@ -1,4 +1,4 @@
-package com.array;
+package com.patterns.slidingWindow;
 
 /*
  * Given an array of positive numbers and a positive number ‘S’, 

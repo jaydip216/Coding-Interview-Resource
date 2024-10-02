@@ -1,0 +1,5 @@
+1. SmallestSubarraySum
+2. LongestSubstringWithKDistinctCharacters
+3. FruitsIntoBaskets
+4. NoRepeatSubstring
+5. LongestSubstringWithSameLettersAfterReplacement
