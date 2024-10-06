@@ -3,3 +3,5 @@
 3. FruitsIntoBaskets
 4. NoRepeatSubstring
 5. LongestSubstringWithSameLettersAfterReplacement
+6. LongestSubArrayWithOnesAfterReplacement
+7. PermutationInString
